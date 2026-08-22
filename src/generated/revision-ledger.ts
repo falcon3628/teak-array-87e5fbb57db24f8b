@@ -12,12 +12,12 @@ export type RevisionLedger = Readonly<{
 
 export const revisionLedger: RevisionLedger = {
   day: "2026-08-22",
-  ordinal: 2,
-  revision: "80114da0-6d25-4f9f-a094-cd2849568f38",
-  generatedAt: "2026-08-22T06:24:06.909Z",
+  ordinal: 3,
+  revision: "2599bd9f-b950-452e-be27-f2a7676e3262",
+  generatedAt: "2026-08-22T09:21:24.085Z",
   signals: {
-    confidence: 0.5789,
-    coverage: 0.7204,
-    entropy: 0.9842,
+    confidence: 0.9122,
+    coverage: 0.6906,
+    entropy: 0.7169,
   },
 };
